@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Gramotey/app/build/intermediates/pre-dexed/debug/classes-9b80f3528756414f6d3463ddfefaba0d9adfe520.jar!/" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Gramotey/app/build/intermediates/pre-dexed/debug/classes-02507099017c423dea0a41d8821ca07da9baf018.jar!/" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Gramotey/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-95c673a30cdb1d88fe37c35564ea496a97835e08.jar!/" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/Gramotey/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-946314d222cf243705d5286ba2391554e843f2a3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
